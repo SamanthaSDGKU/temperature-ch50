@@ -1,0 +1,8 @@
+body{
+    font-family: arial;
+}
+.product-item{
+    background-color: #dedede;
+    border: 1px dashed gray;
+    padding: 10px;
+}
